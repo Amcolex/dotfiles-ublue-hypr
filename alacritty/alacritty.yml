@@ -1,0 +1,11 @@
+import:
+  - ~/.config/alacritty/themes/themes/remedy_dark.yaml
+
+window:
+  opacity: 0.7
+  decorations: "none"
+
+font:
+  normal:
+    family: JetBrainsMono Nerd Font
+  size: 10
