@@ -10,4 +10,4 @@ ROLE_STORAGE_PATH=/var/home/alex/.config/shell_gpt/roles
 SYSTEM_ROLES=false
 DEFAULT_EXECUTE_SHELL_CMD=false
 DISABLE_STREAMING=false
-OPENAI_API_KEY=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
+OPENAI_API_KEY=xxx
